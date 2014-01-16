@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AquiringBaseline</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="aquiring_baseline_">ACQUIRING BASELINE</string>
+    <string name="session_starting_">SESSION STARTING</string>
+
+</resources>
