@@ -1,0 +1,15 @@
+#     Folder	#
+*/.settings
+*/bin
+*/gen
+
+# Windows Related 
+Thumbs.db
+
+# Compile Files #
+*.class
+*DS_Store
+
+# Package Files #
+*.war
+*.ear
