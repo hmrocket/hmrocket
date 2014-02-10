@@ -5,6 +5,11 @@
 
 # Windows Related 
 Thumbs.db
+*\bin
+*\gen
+*\.settings
+*\gradle
+*\build
 
 # Compile Files #
 *.class
