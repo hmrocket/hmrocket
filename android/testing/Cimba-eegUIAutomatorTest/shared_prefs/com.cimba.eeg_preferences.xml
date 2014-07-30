@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="APP_PREF_SELECTED_DEVICE">00:07:80:5F:E9:C8</string>
+    <boolean name="APP_PREF_USE_PRE_FILTER" value="true" />
+    <boolean name="APP_PREF_AUTO_CONNECT_ON_STARTUP" value="false" />
+</map>
