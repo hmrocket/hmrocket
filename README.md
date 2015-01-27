@@ -1,4 +1,4 @@
 # TODO
-- Add multi pane project
-..- Add multi pane snippet code
-..- Add Multi select snippet code (CAB)
+1. Add multi pane project 
+    * Add multi pane snippet code
+    * Add Multi select snippet code (CAB)
