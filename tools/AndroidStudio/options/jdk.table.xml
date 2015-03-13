@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="JDK" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.6.0_65&quot;" />
+      <homePath value="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/deploy.jar!/" />
+            <root type="simple" url="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/dt.jar!/" />
+            <root type="simple" url="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/javaws.jar!/" />
+            <root type="simple" url="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/jce.jar!/" />
+            <root type="simple" url="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/jconsole.jar!/" />
+            <root type="simple" url="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/management-agent.jar!/" />
+            <root type="simple" url="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/plugin.jar!/" />
+            <root type="simple" url="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/sa-jdi.jar!/" />
+            <root type="simple" url="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/charsets.jar!/" />
+            <root type="simple" url="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/" />
+            <root type="simple" url="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/jsse.jar!/" />
+            <root type="simple" url="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/ui.jar!/" />
+            <root type="simple" url="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/ext/apple_provider.jar!/" />
+            <root type="simple" url="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/ext/sunpkcs11.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="http://docs.oracle.com/javase/6/docs/api/" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="1.6" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.6.0_65&quot;" />
+      <homePath value="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/deploy.jar!/" />
+            <root type="simple" url="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/dt.jar!/" />
+            <root type="simple" url="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/javaws.jar!/" />
+            <root type="simple" url="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/jce.jar!/" />
+            <root type="simple" url="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/jconsole.jar!/" />
+            <root type="simple" url="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/management-agent.jar!/" />
+            <root type="simple" url="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/plugin.jar!/" />
+            <root type="simple" url="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/sa-jdi.jar!/" />
+            <root type="simple" url="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/charsets.jar!/" />
+            <root type="simple" url="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/" />
+            <root type="simple" url="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/jsse.jar!/" />
+            <root type="simple" url="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/ui.jar!/" />
+            <root type="simple" url="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/ext/apple_provider.jar!/" />
+            <root type="simple" url="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/ext/sunpkcs11.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="http://docs.oracle.com/javase/6/docs/api/" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 10 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;1.6.0_65&quot;" />
+      <homePath value="$USER_HOME$/Downloads/adt-bundle-mac-x86_64-20130522/android_sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://$USER_HOME$/Downloads/adt-bundle-mac-x86_64-20130522/android_sdk/platforms/android-10/android.jar!/" />
+            <root type="simple" url="file://$USER_HOME$/Downloads/adt-bundle-mac-x86_64-20130522/android_sdk/platforms/android-10/data/res" />
+            <root type="simple" url="jar://$USER_HOME$/Downloads/adt-bundle-mac-x86_64-20130522/android_sdk/tools/support/annotations.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Downloads/adt-bundle-mac-x86_64-20130522/android_sdk/docs/reference" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional jdk="JDK" sdk="android-10" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 12 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;1.6.0_65&quot;" />
+      <homePath value="$USER_HOME$/Downloads/adt-bundle-mac-x86_64-20130522/android_sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://$USER_HOME$/Downloads/adt-bundle-mac-x86_64-20130522/android_sdk/platforms/android-12/android.jar!/" />
+            <root type="simple" url="file://$USER_HOME$/Downloads/adt-bundle-mac-x86_64-20130522/android_sdk/platforms/android-12/data/res" />
+            <root type="simple" url="jar://$USER_HOME$/Downloads/adt-bundle-mac-x86_64-20130522/android_sdk/tools/support/annotations.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Downloads/adt-bundle-mac-x86_64-20130522/android_sdk/docs/reference" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional jdk="JDK" sdk="android-12" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 17 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;1.6.0_65&quot;" />
+      <homePath value="$USER_HOME$/Downloads/adt-bundle-mac-x86_64-20130522/android_sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://$USER_HOME$/Downloads/adt-bundle-mac-x86_64-20130522/android_sdk/platforms/android-17/android.jar!/" />
+            <root type="simple" url="file://$USER_HOME$/Downloads/adt-bundle-mac-x86_64-20130522/android_sdk/platforms/android-17/data/res" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Downloads/adt-bundle-mac-x86_64-20130522/android_sdk/docs/reference" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Downloads/adt-bundle-mac-x86_64-20130522/android_sdk/sources/android-17" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="JDK" sdk="android-17" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 18 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;1.6.0_65&quot;" />
+      <homePath value="$USER_HOME$/Downloads/adt-bundle-mac-x86_64-20130522/android_sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://$USER_HOME$/Downloads/adt-bundle-mac-x86_64-20130522/android_sdk/platforms/android-18/android.jar!/" />
+            <root type="simple" url="file://$USER_HOME$/Downloads/adt-bundle-mac-x86_64-20130522/android_sdk/platforms/android-18/data/res" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Downloads/adt-bundle-mac-x86_64-20130522/android_sdk/docs/reference" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Downloads/adt-bundle-mac-x86_64-20130522/android_sdk/sources/android-18" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="JDK" sdk="android-18" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 19 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;1.6.0_65&quot;" />
+      <homePath value="$USER_HOME$/Downloads/adt-bundle-mac-x86_64-20130522/android_sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://$USER_HOME$/Downloads/adt-bundle-mac-x86_64-20130522/android_sdk/platforms/android-19/android.jar!/" />
+            <root type="simple" url="file://$USER_HOME$/Downloads/adt-bundle-mac-x86_64-20130522/android_sdk/platforms/android-19/data/res" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Downloads/adt-bundle-mac-x86_64-20130522/android_sdk/docs/reference" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Downloads/adt-bundle-mac-x86_64-20130522/android_sdk/sources/android-19" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="JDK" sdk="android-19" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 21 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;1.6.0_65&quot;" />
+      <homePath value="$USER_HOME$/Downloads/adt-bundle-mac-x86_64-20130522/android_sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://$USER_HOME$/Downloads/adt-bundle-mac-x86_64-20130522/android_sdk/platforms/android-21/android.jar!/" />
+            <root type="simple" url="file://$USER_HOME$/Downloads/adt-bundle-mac-x86_64-20130522/android_sdk/platforms/android-21/data/res" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Downloads/adt-bundle-mac-x86_64-20130522/android_sdk/docs/reference" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Downloads/adt-bundle-mac-x86_64-20130522/android_sdk/sources/android-21" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="JDK" sdk="android-21" />
+    </jdk>
+  </component>
+</application>
+

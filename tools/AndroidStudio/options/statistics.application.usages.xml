@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="language-level">
+      <project id="workspace 4" values="JDK_1_6" />
+      <project id="Sleep" values="JDK_1_6" />
+      <project id="Cimba-Mind" values="JDK_1_6" />
+      <project id="TPS-Android" values="JDK_1_6" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="Sleep" values="AndroidRunConfigurationType" />
+      <project id="TPS-Android" values="JUnit,AndroidRunConfigurationType" />
+    </group>
+    <group name="vcs">
+      <project id="Cimba-Mind" values="Git" />
+      <project id="TPS-Android" values="Git" />
+    </group>
+    <group name="module type">
+      <project id="workspace 4" values="JAVA_MODULE" />
+      <project id="Sleep" values="JAVA_MODULE" />
+      <project id="Cimba-Mind" values="JAVA_MODULE" />
+      <project id="TPS-Android" values="JAVA_MODULE" />
+    </group>
+    <group name="frameworks">
+      <project id="Sleep" values="android" />
+      <project id="Cimba-Mind" values="android" />
+      <project id="TPS-Android" values="android" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="Cimba-Mind" values="AndroidTestRunConfigurationType" />
+      <project id="TPS-Android" values="AndroidTestRunConfigurationType,AndroidRunConfigurationType" />
+    </group>
+    <group name="file-type">
+      <project id="workspace 4" values="JAVA,Properties,CLASS,PLAIN_TEXT,ARCHIVE,IDEA_MODULE,HTML,ProGuard File,Native,UNKNOWN,C++,Images,XML,Groovy" />
+      <project id="Sleep" values="PLAIN_TEXT,Images,IDEA_MODULE,XML,CLASS,UNKNOWN,ProGuard File,JAVA,ARCHIVE,Properties" />
+      <project id="Cimba-Mind" values="HTML,XML,CLASS,Images,Properties,JAVA,PLAIN_TEXT,ProGuard File,IDEA_MODULE,UNKNOWN,ARCHIVE" />
+      <project id="TPS-Android" values="CLASS,HTML,XML,PLAIN_TEXT,JAVA,Native,Properties,ARCHIVE,IDEA_MODULE,UNKNOWN,Images,Groovy,ProGuard File" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="execute.AndroidRunConfigurationType.Debug" count="3" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="37" />
+      <entry feature="execute.AndroidTestRunConfigurationType.Run" count="2" />
+      <entry feature="execute.JUnit.Run" count="1" />
+      <entry feature="ide.settings.Appearance" count="1" />
+      <entry feature="ide.settings.Auto_Import" count="1" />
+      <entry feature="ide.settings.Confirmation" count="1" />
+      <entry feature="ide.settings.Editor" count="1" />
+      <entry feature="ide.settings.Keymap" count="3" />
+      <entry feature="ide.settings.Version_Control" count="1" />
+      <entry feature="ideaapp.started" count="11" />
+    </counts>
+  </component>
+</application>
+

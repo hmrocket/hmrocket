@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<versions>
+  <component name="AbbreviationManager" version="1426088340311" />
+  <component name="AndroidEditors" version="1426107184788" />
+  <component name="AndroidFirstRunPersistentData" version="1426088340312" />
+  <component name="CodeInsightSettings" version="1426088340314" />
+  <component name="CodeStyleSchemeSettings" version="1426088340315" />
+  <component name="CvsApplicationLevelConfiguration" version="1426089239640" />
+  <component name="DaemonCodeAnalyzerSettings" version="1426088340315" />
+  <component name="DimensionService" version="1426264272356" />
+  <component name="EditorColorsManagerImpl" version="1426088340315" />
+  <component name="EditorSettings" version="1426088340316" />
+  <component name="Encoding" version="1426088340316" />
+  <component name="ExportableFileTemplateSettings" version="1426088340316" />
+  <component name="ExportableTemplateSettings" version="1426088340316" />
+  <component name="FeatureUsageStatistics" version="1426264492660" />
+  <component name="FileBasedIndex" version="1426088340317" />
+  <component name="FileEditorProviderManager" version="1426088340317" />
+  <component name="FileTypeManager" version="1426088340321" />
+  <component name="FindSettings" version="1426263963593" />
+  <component name="GeneralSettings" version="1426088340321" />
+  <component name="Git.Application.Settings" version="1426088340322" />
+  <component name="HgGlobalSettings" version="1426088340322" />
+  <component name="HttpConfigurable" version="1426088340322" />
+  <component name="Images.OptionsManager" version="1426194170178" />
+  <component name="KeymapManager" version="1426088340323" />
+  <component name="LafManager" version="1426088340323" />
+  <component name="LanguageInjectionConfiguration" version="1426088340324" />
+  <component name="NodeRendererSettings" version="1426088340325" />
+  <component name="NotificationConfiguration" version="1426100736566" />
+  <component name="PathMacrosImpl" version="1426088340325" />
+  <component name="PluginManagerConfigurable" version="1426088340325" />
+  <component name="ProjectJdkTable" version="1426088340326" />
+  <component name="ProjectManager" version="1426088340329" />
+  <component name="PropertiesComponent" version="1426264873191" />
+  <component name="RecentProjectsManager" version="1426261085932" />
+  <component name="RefactoringSettings" version="1426089994590" />
+  <component name="Registry" version="1426088340330" />
+  <component name="RunnerLayoutSettings" version="1426092313318" />
+  <component name="StatisticsApplicationUsages" version="1426261085932" />
+  <component name="StudioBuildStatistic" version="1424987465492" />
+  <component name="SystemNotifications" version="1426092307625" />
+  <component name="TemplateSettings" version="1426088340331" />
+  <component name="TodoConfiguration" version="1426088340332" />
+  <component name="UISettings" version="1426088340332" />
+  <component name="UpdatesConfigurable" version="1426261072609" />
+  <component name="UsageTrigger" version="1426264074676" />
+  <component name="UsagesStatistic" version="1426088340333" />
+  <component name="WebBrowsersConfiguration" version="1426088340334" />
+  <component name="WindowManager" version="1426088340335" />
+  <component name="XDebuggerSettings" version="1426089239651" />
+  <component name="XmlEditorOptions" version="1426088340335" />
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl" version="1426088340336" />
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl" version="1426088340336" />
+</versions>
+
