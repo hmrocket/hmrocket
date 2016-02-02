@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Picker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_next">Next</string>
+    <string name="paired_devices">Paired Devices</string>
+    <string name="session_time">Session Time</string>
+    <string name="set_goal">Set Goal</string>
+
+</resources>

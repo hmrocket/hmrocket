@@ -1,0 +1,45 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:padding="25dp" >
+
+    <NumberPicker
+        android:id="@+id/nPicker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="12dp"
+        android:descendantFocusability="blocksDescendants" />
+
+    <View
+        android:id="@+id/space_ok_cancel"
+        android:layout_width="20px"
+        android:layout_height="20px"
+        android:layout_below="@+id/nPicker"
+        android:layout_marginTop="24dp"
+        android:layout_centerHorizontal="true"
+         />
+
+    <Button
+        android:id="@+id/btn_ok"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/space_ok_cancel"
+        android:layout_alignTop="@id/space_ok_cancel"
+        android:layout_marginLeft="60dp"
+        android:text="@android:string/ok" />
+
+    <Button
+        android:id="@+id/btn_cancel"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@id/space_ok_cancel"
+        android:layout_alignTop="@id/space_ok_cancel"
+        android:layout_marginRight="60dp"
+        android:text="Cancel" />
+
+</RelativeLayout>
