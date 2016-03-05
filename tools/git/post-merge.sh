@@ -24,7 +24,6 @@ function updateVersionCode {
 if [ -f $MANIFEST ]
 then
 LINE=$(grep -e 'versionCode [0-9]*' ${MANIFEST});
-echo $LINE
 LINE=(`echo $LINE | tr "\"" " "`);
 VERSION=(${LINE[1]});
 INCREMENTED=$(($VERSION+1))
@@ -41,21 +40,20 @@ function updateVersionName {
 
 if [ -f $MANIFEST ]
 then
-LINE=$(grep -e 'versionName "^[0-9]+(\.\d+)?"' ${MANIFEST});
-declare -a LINE;
-LINE=(`echo $LINE | tr "\"" " "`);
-VERSION=(${LINE[1]});
+LINE=$(grep -e "versionName \".*\"" ${MANIFEST});
+LINE=`echo $LINE | sed 's/[^"]*"\([^"]*\)".*/\1/'`
+VERSION=(${LINE[0]});
 
-echo "Current Version Name ${VERSION} In ${MANIFEST}!";
+echo "Current VersionName ${VERSION} In ${MANIFEST}!";
 echo "Please updated version Name and press [ENTER]:"
 read versionName
 
-while [[ ! $versionName =~ ^[0-9]+(\.\d+)? ]]; do
+while [[ ! $versionName =~ ^[0-9]+(\.(\d)+)? ]]; do
 echo "invalid Version Name entry! again:"
 read versionName
 done
 
-cat $MANIFEST | sed -e "s/versionName ${VERSION}/versionName ${versionName}/" > $MANIFEST.tmp && mv $MANIFEST.tmp $MANIFEST
+cat $MANIFEST | sed -e "s/versionName \"${VERSION}\"/versionName \"${versionName}\"/" > $MANIFEST.tmp && mv $MANIFEST.tmp $MANIFEST
 echo "Version Name update to ${versionName} In ${MANIFEST}!";
 else
 echo "File ${MANIFEST} not found!"
@@ -65,8 +63,8 @@ fi
 
 if [[ $current_branch=$protected_branch ]]; then
 echo "Continuous Integration: try ++ version name and ++ build version"
-updateVersionCode
-#    updateVersionName()
+#    updateVersionCode
+    updateVersionName
 #	git add $MANIFEST
 #	git commit -m "Bump $versionName"
 #	git tag $versionName -m "Build version $versionCode"
