@@ -65,15 +65,15 @@ if [[ $current_branch=$protected_branch ]]; then
     updateVersionCode
     updateVersionName
     git diff $MANIFEST
-    echo "would you like to commit/tag/push this to the server? y/n"
-    read requestPush
-    if [! $requestPush = "y"]; then
-        exit 0
-    fi
-	git add $MANIFEST
-	git commit -m "Bump $versionName"
-	git tag $versionName -m "Build version $versionCode"
-	git push
-	git push --tags
+    read -p "would you like to commit/tag/push this to the server? y/n" -n 1 -r
+    echo    # (optional) move to a new line
+	if [[ $REPLY =~ ^[Yy]$ ]]
+	then
+    	git add $MANIFEST
+		git commit -m "Bump $versionName"
+		git tag $versionName -m "Build version $versionCode"
+		git push
+		git push --tags
+	fi
 fi
 exit 0
