@@ -1,0 +1,3 @@
+[submodule "android/patterns/MVVM-DataBinding-SignUp"]
+	path = android/patterns/MVVM-DataBinding-SignUp
+	url = https://github.com/ivacf/archi
